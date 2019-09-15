@@ -1,0 +1,15 @@
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\bin\Debug\Dziennik.exe.config
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\bin\Debug\Dziennik.exe
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\bin\Debug\Dziennik.pdb
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\App.g.cs
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik_MarkupCompile.cache
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik_MarkupCompile.lref
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.g.resources
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.Properties.Resources.resources
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.exe
+C:\Users\Bartek\Desktop\ProgramC#\Dziennik\Dziennik\obj\Debug\Dziennik.pdb
